@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+//Techgene
+
 #import <UIKit/UIKit.h>
 #import "PreviewViewController.h"
 #import <MobileCoreServices/MobileCoreServices.h>
